@@ -1,0 +1,37 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+body{
+	font-family: 'Poppins', sans-serif;
+}
+header{
+	display: flex;
+	width: 95%;
+	height: 13vh;
+	margin: auto;
+}
+.header-title{
+	flex: 1;
+	background: rgb(97, 185, 219);
+
+} 
+.title{
+	
+}
+nav{
+	flex: 1;
+	background: skyblue;
+
+}
+.nav-links{
+	justify-content: space-around;
+	list-style: none;
+	display: flex;
+}
+.nav-link{
+	text-decoration: none;
+
+}
+
